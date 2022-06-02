@@ -1,6 +1,6 @@
 import React from "react";
 import locale from "../../../locale";
-import { H2, FoodBoxHeader, RecipeTitle, RecipeP, RecipeImg } from "../styles";
+import { H2, FoodBoxHeader, RecipeTitle, RecipeP, BigRecipeImg } from "../styles";
 
 const RecipeNotFound = () => {
     return (
@@ -15,7 +15,7 @@ const RecipeNotFound = () => {
                 target="_blank"
                 rel="noreferrer"
             >
-                <RecipeImg
+                <BigRecipeImg
                     src="https://hips.hearstapps.com/del.h-cdn.co/assets/17/38/2048x1365/gallery-1506010503-spinach-lasagna-delish.jpg?resize=980:*"
                     alt="spinach lasagna"
                 />

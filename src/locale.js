@@ -24,9 +24,9 @@ const locale = {
     RECIPE_LINK: "Click here for detailed recipe instructions",
     RECIPE_SMALL_LINK: "Recipe instructions",
     MISSING_RECIPE_TITLE: "recipe not found 😔",
-    MISSING_RECIPE_TEXT: `We apologize, but we haven't been able to find a recipe that would correspond to
+    MISSING_RECIPE_TEXT: `We apologize, but we haven't been able to find a recipe corresponding to
     your selected parameters. Not to worry, we're constantly updating our database -
-    please make sure to check later! In the meantime, check out this recipe of spinach
+    please make sure to check later! In the meantime, take a look at this recipe of spinach
     lasagna:`,
     SUGGESTIONS: "other suggestions",
     FOOTER_MESSAGE: "copyright © 2022 Try Vegetarian, all rights reserved",

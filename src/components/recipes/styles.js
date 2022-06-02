@@ -141,6 +141,17 @@ export const SmallRecipeTitle = styled.h3`
     }
 `;
 
+export const BigRecipeImg = styled.img`
+    width: 350px;
+    height: auto;
+
+    @media (max-width: 860px) {
+        width: 280px;
+        display: block;
+        margin: 10px auto;
+    }
+`;
+
 export const RecipeImg = styled.img`
     width: 200px;
     height: 200px;
