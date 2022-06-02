@@ -68,6 +68,7 @@ export const Dropdown = styled.select`
     width: 54%;
     font-family: inherit;
     font-size: 18px;
+    -webkit-appearance: none;
 
     &:focus {
         outline-color: #bbddc6;
