@@ -1,10 +1,8 @@
-import React from 'react'
-import {Hero} from './styles'
+import React from "react";
+import { Hero } from "./styles";
 
 const HeroComponent = () => {
-    return (
-        <Hero />
-    )
-}
+    return <Hero />;
+};
 
-export default HeroComponent
+export default HeroComponent;

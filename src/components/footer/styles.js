@@ -12,5 +12,13 @@ export const Footer = styled.footer`
 export const FooterP = styled.p`
     padding: 10px;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 14px;
+
+    @media (max-width: 690px) {
+        font-size: 12px;
+    }
+
+    @media (max-width: 420px) {
+        font-size: 10px;
+    }
 `;

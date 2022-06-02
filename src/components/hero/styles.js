@@ -5,4 +5,7 @@ export const Hero = styled.section`
     background-size: cover;
     background-position: center;
     height: 100vh;
+    margin-top: 2px;
+    box-shadow: 0 4px 2px 0 #ccc;
 `;
+

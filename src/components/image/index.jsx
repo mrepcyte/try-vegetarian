@@ -1,10 +1,8 @@
-import React from 'react'
-import {Image} from './styles'
+import React from "react";
+import { Image } from "./styles";
 
 const ImageComponent = () => {
-    return (
-        <Image />
-    )
-}
+    return <Image />;
+};
 
-export default ImageComponent
+export default ImageComponent;
