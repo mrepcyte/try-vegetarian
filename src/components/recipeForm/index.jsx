@@ -14,12 +14,7 @@ const RecipeForm = ({
     return (
         <FormQuestions>
             <H2>{locale.FORM_TITLE}</H2>
-            <P>
-                If you ever wanted to try vegetarian diet, we are here to help you. Please enter
-                select the approximate amount of calories you would expect your meal to have and
-                what kind of meal that is - energetic breakfast, nutritious lunch or maybe light
-                dinner? We will present you with vegetarian meals packed with nutrition.
-            </P>
+            <P>{locale.FORM_INSTRUCTIONS}</P>
             <Label htmlFor="calories">{locale.FORM_MIN_CALORIES} </Label>
             <Input
                 type="number"
