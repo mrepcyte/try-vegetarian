@@ -6,20 +6,10 @@ The user can fill out the form selecting minimum amount of calories, the meal ty
 
 Built with **ReactJS** and **styled-components**.
 
+**Deployed version**: https://try-vegetarian.netlify.app/
+
 <p style="text-align: center">
     <img src="https://github.com/mrepcyte/try-vegetarian/blob/main/public/TV-HeaderAndHero.png?raw=true">
-</p>
-
-<p style="text-align: center">
-    <img src="https://github.com/mrepcyte/try-vegetarian/blob/main/public/TV-MainForm.png?raw=true">
-</p>
-
-<p style="text-align: center">
-    <img src="https://github.com/mrepcyte/try-vegetarian/blob/main/public/TV-Suggestions.png?raw=true">
-</p>
-
-<p style="text-align: center">
-    <img src="https://github.com/mrepcyte/try-vegetarian/blob/main/public/TV-ImageAndFooter.png?raw=true">
 </p>
 
 ## Front-End Web
