@@ -7,7 +7,7 @@ const locale = {
     FORM_INSTRUCTIONS: `If you ever wanted to try vegetarian diet, we are here to help you. Please
     select the minimum amount of calories you would expect your meal to have and
     what kind of meal that is - energetic breakfast, delicious lunch or maybe light
-    dinner? We will present you with vegetarian meals packed with nutrition`,
+    dinner? We will present you with vegetarian meals packed with nutrition (all values in grams).`,
     OPTION_BREAKFAST: "breakfast",
     OPTION_BRUNCH: "brunch",
     OPTION_LUNCH: "lunch/dinner",
